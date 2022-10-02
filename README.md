@@ -21,15 +21,15 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 ## Connect with me :
 <div>
 <a href="https://www.linkedin.com/in/sakshi-singh-91716b226/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+  <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 
 <a href="mailto:sakshi2010127@akgec.ac.in">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
 <a href="https://https://www.instagram.com/_.sakshi.rai._/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+  <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
  </div>
 <br><br>
