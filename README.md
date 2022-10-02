@@ -21,8 +21,6 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakshiRai01)  
 
-![GitHub metrics](https://metrics.lecoq.io/SakshiRai01)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SakshiRai01)  
 
 ![Profile views](https://gpvc.arturio.dev/SakshiRai01)  
