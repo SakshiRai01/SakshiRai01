@@ -19,7 +19,7 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 
 
 ## Connect with me :
-
+<div>
 <a href="https://www.linkedin.com/in/sakshi-singh-91716b226/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
@@ -31,6 +31,7 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 <a href="https://https://www.instagram.com/_.sakshi.rai._/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
+ </div>
 <br>
 
 
