@@ -47,9 +47,9 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 <br>
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SakshiRai01)](https://github.com/ryo-ma/github-profile-trophy)
-<br> 
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiRai01)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiRai01&show_icons=true)  
 <br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakshiRai01)  
