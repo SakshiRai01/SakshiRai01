@@ -5,8 +5,12 @@
 
 Skills: C /C++ / REACT / JS / HTML / CSS
 
+-   Pronouns: She/her 🙋🏻‍♀️
 - 🔭 I’m currently working on backend development 
 - 🌱 I’m currently learning React  
+- 🔭 Currently working on my Coding Skills
+-  I am looking for help with DSA.
+-  Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SakshiRai01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakshi-singh-91716b226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@Sakshi_Singh_)  
@@ -23,4 +27,13 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SakshiRai01)  
 
-![Profile views](https://gpvc.arturio.dev/SakshiRai01)  
+
+<div align = "center">
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say a <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
+</div>
+
+
+
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/SakshiRai01/count.svg) people to checkout my profile :heart:
+
