@@ -6,7 +6,6 @@
 ###  My name is Sakshi Singh
 #### A tech enthusiast and a frontend developer
 
-![A tech enthusiast and a frontend developer]
 
 Skills: C /C++ / REACT / JS / HTML / CSS
 
