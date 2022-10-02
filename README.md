@@ -32,7 +32,7 @@ Skills: C /C++ / REACT / JS / HTML / CSS
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
  </div>
-<br>
+<br><br>
 
 
 <a href='https://archiveprogram.github.com/'><img align="left" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/developers'><img align="left" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40px' height='40px'></a> <a href='https://github.com/pricing'><img align="left" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40px' height='40px'></a> <a href='https://stars.github.com/'><img align="left" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35px' height='35px'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img align="left" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35px' height='35px'></a> 
