@@ -10,9 +10,8 @@
 Skills: C /C++ / REACT / JS / HTML / CSS
 
 - 🙋🏻‍♀️ Pronouns: She/her 
-- 🔭 I’m currently working on backend development 
+- 🔭 I’m currently working on backend development and my coding skills
 - 🌱 I’m currently learning React  
-- 🔭 Currently working on my Coding Skills
 - 💁‍♀️ I am looking for help with DSA.
 - 👩‍💻 Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
 
