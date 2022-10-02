@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <div align='center'>
-### Hi there 👋, my name is Sakshi Singh
-#### A tech enthusiast and a frontend developer
+ Hi there 👋
  </div>
+ 
+###  My name is Sakshi Singh
+#### A tech enthusiast and a frontend developer
+
 ![A tech enthusiast and a frontend developer](https://png.pngtree.com/element_our/png_detail/20180930/github-icon-design-vector-png_115671.jpg)
 
 
