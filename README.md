@@ -41,7 +41,7 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="45px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" />
-<br> <br><br>
+<br> <br>
 <hr height='0.5px'>
 
 
