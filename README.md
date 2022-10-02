@@ -18,7 +18,19 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 -  Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
 
 
-[<img src='https://cdn-icons-png.flaticon.com/128/1051/1051377.png' alt='github' height='40'>](https://github.com/SakshiRai01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakshi-singh-91716b226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@Sakshi_Singh_)  
+## Connect with me :
+
+<a href="https://www.linkedin.com/in/sakshi-singh-91716b226/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+
+<a href="mailto:sakshi2010127@akgec.ac.in">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+<a href="https://https://www.instagram.com/_.sakshi.rai._/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
