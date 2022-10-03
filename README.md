@@ -55,17 +55,17 @@
 <br>
 <br>
 ##  ⚡️GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika09&layout=compact&theme=react)](https://github.com/yuvika09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika09&layout=compact&theme=react)](https://github.com/SakshiRai01/github-readme-stats)
 <br>
-<a href="https://github.com/yuvika09">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yuvika09&theme=react&count_private=true" alt="Yuvika's GitHub Stats" />
+<a href="https://github.com/SakshiRai01">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SakshiRai01&theme=react&count_private=true" alt="Sakshi's GitHub Stats" />
 </a>
 <br>
 
 ## &#x1f4c8; Some Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvika09&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiRai01&theme=black-ice)](https://git.io/streak-stats)
 <br>
-![Yuvika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuvika09&theme=react-dark&hide_border=true&area=true)
+![Sakshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SakshiRai01&theme=react-dark&hide_border=true&area=true)
 <br>
 
 <div align = "center">
