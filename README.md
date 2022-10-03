@@ -47,7 +47,7 @@
 <img align="left" alt="C++" width="35px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" />
 <img align="left" alt="python" width="35px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
 <img align="left" alt="vscode" width="35px" style="margin-top: 100px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" />
-<br> <br><br><br>
+<br> <br>
 <hr height='0.5px'>
 
 
