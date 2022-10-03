@@ -7,13 +7,11 @@
 #### A tech enthusiast and a frontend developer
 
 
-Skills: C /C++ / REACT / JS / HTML / CSS
-
 - 🙋🏻‍♀️ Pronouns: She/her 
 - 🔭 I’m currently working on backend development and my coding skills
 - 🌱 I’m currently learning React  
 - 💁‍♀️ I am looking for help with DSA.
-- 👩‍💻 Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
+- 👩‍💻 Looking for opportunities where I can utilise my current skills and can learn more from the people I work with. 
 
 
 ## Connect with me :
@@ -38,9 +36,17 @@ Skills: C /C++ / REACT / JS / HTML / CSS
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Nodejs" width="45px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
+<img align="left" alt="bootstrap" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
+<img align="left" alt="mongodb" width="45px" src="https://img.icons8.com/color/2x/mongodb.png" />
+<img align="left" alt="canva" width="45px" src="https://img.icons8.com/doodle/2x/canva.png" />
+<img align="left" alt="figma" width="45px" src="https://img.icons8.com/color/2x/figma.png" />
+<img align="left" alt="oracle" width="45px" src="https://img.icons8.com/color/2x/oracle-logo.png" />
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="45px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" />
+<img align="left" alt="python" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
+<img align="left" alt="vscode" width="45px" style="margin-top: 100px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" />
 <br> <br>
 <hr height='0.5px'>
 
