@@ -67,8 +67,7 @@
 ## &#x1f4c8; Some Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiRai01&theme=black-ice)](https://git.io/streak-stats)
 <br>
-![Sakshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SakshiRai01&theme=react-dark&hide_border=true&area=true)
-<br>
+
 
 <div align = "center">
 <br>
